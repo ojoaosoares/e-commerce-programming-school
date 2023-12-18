@@ -1,10 +1,3 @@
-# e-commerce-programming-school
-An e-commerce of a programming school
-You can acess the website by the link below
-
-https://soares-e-commerce-school.netlify.app/
-
-
 # Frontend Mentor - Programming School Ecommerce
 
 Este é um desafio proposto pela Frontend Mentor para criar uma ecommerce de uma escola de programação.
