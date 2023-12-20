@@ -1,26 +1,26 @@
 # Frontend Mentor - Programming School Ecommerce
 
-Este é um desafio proposto pela Frontend Mentor para criar uma ecommerce de uma escola de programação.
+This is a challenge proposed by Frontend Mentor to create an ecommerce for a programming school.
 
-Você pode acessar o site hospedado no Netlify através do link abaixo:
+You can access the hosted site on Netlify through the following link:
 
-[https://soares-intro-with-dropdown.netlify.app/](https://soares-e-commerce-school.netlify.app/)
+[https://soares-e-commerce-school.netlify.app/](https://soares-e-commerce-school.netlify.app/)
 
-## Estrutura do Projeto
+## Project Structure
 
-- O código-fonte está organizado em um diretório principal.
-- O desafio concentra-se na implementação de um ecommerce de uma escola de programação.
+- The source code is organized in a main directory.
+- The challenge focuses on implementing an ecommerce for a programming school.
 
-# Tecnologias Utilizadas
+# Technologies Used
 
 - HTML
 - CSS
 - JavaScript
 
-## Contato
+## Contact
 
 - [Linkedin](http://www.linkedin.com/in/ojo%C3%A3osoares)
 
-# Contribuições
+# Contributions
 
-- Contribuições são bem-vindas! Se você tiver sugestões de melhorias ou encontrar problemas, sinta-se à vontade para abrir uma issue ou um pull request.
+- Contributions are welcome! If you have suggestions for improvements or encounter issues, feel free to open an issue or a pull request.
